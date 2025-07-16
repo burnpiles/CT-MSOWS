@@ -1,0 +1,14 @@
+{
+  "author": "",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  },
+  "license": "ISC",
+  "name": "figma_to_webflow_(html,_css_and_website)_(community)",
+  "scripts": {
+    "start": "parcel ./*.html ",
+    "build": "parcel build ./*.html  --dist-dir ./build"
+  },
+  "version": "1.0.0"
+}
